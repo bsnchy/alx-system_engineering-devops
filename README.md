@@ -1,3 +1,8 @@
+
+
+
+![1_P-Zu0RX33TUT0S6yyFNPYA](https://github.com/user-attachments/assets/53f0b42c-e0c1-43f0-ba79-7d8ee4f7ba34)
+
 **Postmortem Report: Service Outage on Web Stack**
 
 **Issue Summary:**
@@ -33,3 +38,6 @@
   5. **Document the incident and resolution steps** thoroughly to improve the incident response plan and ensure knowledge sharing within the team.
 
 This postmortem outlines the steps taken to identify and resolve the issue and provides a roadmap for preventing similar incidents in the future.
+
+![you-broke-reddit-the-pi-day-outage-v0-k9plsuir26pa1](https://github.com/user-attachments/assets/7560162c-ee05-445d-af3b-fc14d03ba0d7)
+
